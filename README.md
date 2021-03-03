@@ -4,5 +4,5 @@ Subset search algorithm that skips subsets, using stepping with size of the need
 
 The larger the needle, the more efficient the algorithm.
 
-![](gitm/demo.GIF)
+![](gitm/demo.gif)
 
